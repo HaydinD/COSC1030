@@ -1,6 +1,6 @@
 //
-// Name
-// Date
+// Haydin Davis
+// 1/21
 // Fix the Errors #3 Programming Project
 // COSC 1030
 //

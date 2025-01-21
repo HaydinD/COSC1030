@@ -32,10 +32,9 @@ int main()
 	cout << endl << "You input the numbers as " << firstNumber
 		<< " and " << secondNumber << endl;
 
-	// Now we will swap the values.
-	firstNumber = secondNumber; secondNumber = firstNumber;
 
+	// Now we will swap the values places.
 	// Output the values.
 	cout << "After swapping, the values of the two numbers are "
-		<< firstNumber << " and " << secondNumber << endl; return 0;
+		<< secondNumber << " and " << firstNumber << endl; return 0;
 }
